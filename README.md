@@ -1,4 +1,4 @@
-FastLED Library
+FastLED Library TESTING SCANNER
 ===========
 
 [![arduino-library-badge](https://www.ardu-badge.com/badge/FastLED.svg)](https://www.ardu-badge.com/FastLED)
