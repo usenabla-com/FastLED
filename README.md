@@ -1,4 +1,4 @@
-FastLED Library TEST CHECKS
+FastLED Library
 ===========
 
 [![arduino-library-badge](https://www.ardu-badge.com/badge/FastLED.svg)](https://www.ardu-badge.com/FastLED)
